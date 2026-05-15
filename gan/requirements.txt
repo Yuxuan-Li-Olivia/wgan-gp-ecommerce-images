@@ -1,0 +1,5 @@
+torch
+torchvision
+pillow
+torchmetrics
+torch-fidelity

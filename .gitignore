@@ -1,0 +1,25 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.npy
+*.npz
+*.csv
+*.zip
+
+# Dataset and large assets
+data/
+
+# Outputs
+/gan/outputs/
+/gan/outputs_64/
+/gan/results/
+
+# OS files
+.DS_Store
+Thumbs.db
