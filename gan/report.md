@@ -98,3 +98,5 @@ $$
 - 采用类别条件 GAN（cGAN）按类目控制生成。
 - 引入更强生成结构（如 ResNet/StyleGAN 类模块）提升纹理与细节。
 - 采用多尺度判别器或更高分辨率训练以增强局部质量。
+
+代码已存在github地址：https://github.com/Yuxuan-Li-Olivia/wgan-gp-ecommerce-images
